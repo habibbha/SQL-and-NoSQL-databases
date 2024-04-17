@@ -4,13 +4,13 @@ SQL (Structured Query language )
 
 SQL databases offer several advantages : 
 
-Structured data : databases store data is structured tables with predefined schemas, the structured format makes it easy to organize and query data efficiently. 
+1-Structured data : databases store data is structured tables with predefined schemas, the structured format makes it easy to organize and query data efficiently. 
 
-Complex queries : SQL databases support complex queries involving multiple tables and relationships.with SQL’s powerful query language, developers can perform various operations such as filtering, joining , aggregating and sorting data with ease . 
+2-Complex queries : SQL databases support complex queries involving multiple tables and relationships.with SQL’s powerful query language, developers can perform various operations such as filtering, joining , aggregating and sorting data with ease . 
 
-Standardization : SQL is an industry-standard language for querying and manipulating relational databases 
+3-Standardization : SQL is an industry-standard language for querying and manipulating relational databases 
 
-Security : SQL databases offer robust security features  
+4-Security : SQL databases offer robust security features  
 
 =>>> Overall , SQL databases are well-suited for applications that require structured data , strong data integrity , complex querying capabilities and transactional support  
 
